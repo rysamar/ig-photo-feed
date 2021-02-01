@@ -1,0 +1,30 @@
+.back1 {
+    background-color: rgba(163, 160, 160, 0.514);
+}
+.bg{
+    background-color: white !important;
+    text-align: center;
+}
+.box1 {
+  background-color: white;
+  width: 300px;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
+  ;
+}
+.date1 {
+    float: right;
+    color: grey;
+    font-size: small;
+}
+
+.titlecard {
+    float: left;
+    font-size: medium;
+}
+
+h3 {
+padding: 10px;
+}
